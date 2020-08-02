@@ -124,4 +124,4 @@ Access the `msg` property to see error messages
 
 ## Usage
 
-This package is only ~50 lines of code long [./src/Type.js](), it is a proof of concept still, if you find it useful please feel free to copy and modify. 
+This package is only ~50 lines of code long [Type.js](src/Type.js), it is a proof of concept still, if you find it useful please feel free to copy and modify. 
